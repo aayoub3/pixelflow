@@ -10,5 +10,5 @@ export default defineConfig({
   server:{
     open: true,
   },
-  base: "/pixelflow"
+  base: "/pixelflow/"
 })
