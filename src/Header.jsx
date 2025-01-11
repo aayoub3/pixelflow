@@ -21,7 +21,7 @@ function Header() {
     <header>
       <nav>
       <img id='home-logo' src={logo} alt="Pixel Flow logo" />
-      <h1 id='welcome-message'>COMMING SOON</h1>
+      <h1 id='welcome-message'>COMMING SON</h1>
       <h1 id="welcome-message2">Stay Tuned<span>{dots}</span></h1>
       <hr />
         <ul>
