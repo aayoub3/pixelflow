@@ -1,0 +1,18 @@
+/* General styling for the container */
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; /* Full height of the viewport */
+    margin: 0;
+  }
+
+  /* Welcome message styling */
+  #home-footer {
+    font-size: 2vw; /* Font size scales with the viewport width */
+    color: #eded96;
+    text-align: center;
+    margin: 10vw 0 10vw 0;
+  }
+

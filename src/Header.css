@@ -1,0 +1,63 @@
+/* General styling for the container */
+body {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        height: 100vh; /* Full height of the viewport */
+        margin: 0;
+      }
+
+      /* Welcome message styling */
+      #welcome-message {
+        font-size: 4vw; /* Font size scales with the viewport width */
+        color: #eded96;
+        text-align: center;
+        margin: 10px 0;
+      }
+      #welcome-message2 {
+        font-size: 2vw; /* Font size scales with the viewport width */
+        color: #eded96;
+        text-align: center;
+        margin: 10px 0;
+      }
+
+      /* Home logo styling */
+      #home-logo {
+        max-width: 50%; /* Adjust size relative to the parent container */
+        height: auto; /* Maintain aspect ratio */
+        margin: 5% 0 0 25vw;
+      }
+
+      nav ul {
+        list-style: none; /* Remove bullet points */
+        display: flex; /* Arrange list items in a row */
+        justify-content: center; /* Center the links horizontally */
+        padding: 0;
+        margin: 0;
+      }
+
+      nav ul li {
+        margin: 0 10px; /* Add spacing between the links */
+      }
+      nav ul li a {
+        text-decoration: none; /* Remove underline */
+        color: white; /* Set link text color */
+        font-size: 1.5vw; /* Font size adjusts with screen width */
+        padding: 0.5vw 2vw; /* Add padding that adjusts with screen width */
+        background-color: #67676779; /* Semi-transparent background color */
+        border-radius: 6px; /* Rounded edges */
+        width:auto; /* Adjust size relative to parent container */
+        min-height: 3vw; /* Maintain aspect ratio */
+        display: inline-flex; /* Ensure proper alignment */
+        text-align: center; /* Center text inside the links */
+        transition: background-color 0.3s, font-size 0.3s; /* Smooth transition for hover and resizing */
+        align-items: center;
+        justify-content: center;
+
+}
+
+
+      nav ul li a:hover {
+        color: #f700ff; /* Change color on hover */
+      }
