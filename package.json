@@ -10,7 +10,7 @@
     "lint": "eslint .",
     "preview": "vite preview",
     "predeploy": "npm run build",
-    "deploy": "npm run build && some-deployment-command"
+    "deploy": "gh-pages -d dist"
   },
   "dependencies": {
     "pixel-flow": "file:",
