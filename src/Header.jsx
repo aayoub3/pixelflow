@@ -8,8 +8,8 @@ function Header() {
   const [dots, setDots] = useState('');
 
   useEffect(() => {
-    const interval = setInterval(() => {
-      setDots((prev) => (prev.length < 3 ? prev + '.' : ''));
+    const interval = setInterval(() => {    //setInterval() is a built-in JavaScript function that repeatedly runs a block of code at a fixed time interval
+      setDots((prev) => (prev.length < 3 ? prev + '.' : ''));   //Note: prev is not a keyword but u can think about it as a varible represents the previous state/value of dots before it get's updated
     }, 500);
 
     return () => clearInterval(interval); // Cleanup the interval
