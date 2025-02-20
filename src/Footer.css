@@ -10,9 +10,8 @@ body {
 
   /* Welcome message styling */
   #home-footer {
-    font-size: 3vw; /* Font size scales with the viewport width */
+    font-size: 2vw; /* Font size scales with the viewport width */
     color: #d6d688;
     text-align: center;
-    margin: 10vw 0 10vw 0;
+    margin: 5vw 0 10vw 0;
   }
-
