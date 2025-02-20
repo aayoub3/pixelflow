@@ -51,7 +51,7 @@ body {
       nav ul li a {
         text-decoration: none; /* Remove underline */
         color: white; /* Set link text color */
-        font-size: 2vw; /* Font size adjusts with screen width */
+        font-size: 4vw; /* Font size adjusts with screen width */
         padding: 0.5vw 2vw; /* Add padding that adjusts with screen width */
         background-color: #67676779; /* Semi-transparent background color */
         border-radius: 6px; /* Rounded edges */
