@@ -10,6 +10,6 @@ function Footer(){
         </footer>
 
     );
-//
+//html
 }
 export default Footer
