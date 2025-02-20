@@ -34,7 +34,8 @@ body {
       #home-logo {
         max-width: 80%; /* Adjust size relative to the parent container */
         height: auto; /* Maintain aspect ratio */
-        margin: 20% 0 0 10vw;
+        margin: 30% 0 0 10vw;
+        padding-top: 10vw;
       }
 
       nav ul {
