@@ -47,7 +47,7 @@ body {
       }
 
       nav ul li {
-        margin: 0 10px; /* Add spacing between the links */
+        margin: 0 6px; /* Add spacing between the links */
       }
       nav ul li a {
         text-decoration: none; /* Remove underline */
