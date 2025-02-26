@@ -29,7 +29,7 @@ function Header() {
           <li> <a href="https://g.co/kgs/mnF5AzD" target="_blank"> Google </a> </li>
           <li> <a href="https://www.facebook.com/pixelflowcreation" target="_blank"> Facebook </a> </li>
           <li> <a href="https://www.instagram.com/pixelflowcreation" target="_blank"> Instagram </a> </li>
-          <li><a href="mailto:pixelflowcreation@gmail.com">Email Us</a></li>
+          <li><a href="mailto:support@pixelflowcreation.com">Email Us</a></li>
         </ul>
       </nav>
 
