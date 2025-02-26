@@ -26,6 +26,7 @@ function Header() {
       <p id='main-message'>Until further notice, for bookings or inquiries contact us via our social media inbox on Facebook/Instagram or by email.</p>
       <hr />
         <ul>
+          <li> <a href="https://g.co/kgs/mnF5AzD" target="_blank"> Google </a> </li>
           <li> <a href="https://www.facebook.com/pixelflowcreation" target="_blank"> Facebook </a> </li>
           <li> <a href="https://www.instagram.com/pixelflowcreation" target="_blank"> Instagram </a> </li>
           <li><a href="mailto:pixelflowcreation@gmail.com">Email Us</a></li>
